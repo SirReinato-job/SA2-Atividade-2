@@ -36,23 +36,23 @@ O código está organizado dentro do namespace `Clinica` e contém as seguintes 
 3. Siga as instruções interativas para cadastrar o cliente e calcular o imposto.
 
 ## 📌 Exemplo de Saída
--------- Pessoa Física ---------
-Nome ..........: Renato
-Endereço ......: ass 32
-CPF ...........: 123.456.789-78
-RG ............: 12.345.678-9
-Valor de Compra: R$ 12.000,00
-Imposto .......: R$ 1.200,00
-Total a Pagar : R$ 13.200,00
-
--------- Pessoa Jurídica ---------
-Nome ..........: Renato
-Endereço ......: ass 32
-CNPJ ..........: 12.222.334/4556-65
-IE ............: 1234.567-89
-Valor de Compra: R$ 700,00
-Imposto .......: R$ 140,00
-Total a Pagar : R$ 840,00
+- -------- Pessoa Física ---------
+- Nome ..........: Renato
+- Endereço ......: ass 32
+- CPF ...........: 123.456.789-78
+- RG ............: 12.345.678-9
+- Valor de Compra: R$ 12.000,00
+- Imposto .......: R$ 1.200,00
+- Total a Pagar : R$ 13.200,00
+- 
+- -------- Pessoa Jurídica ---------
+- Nome ..........: Renato
+- Endereço ......: ass 32
+- CNPJ ..........: 12.222.334/4556-65
+- IE ............: 1234.567-89
+- Valor de Compra: R$ 700,00
+- Imposto .......: R$ 140,00
+- Total a Pagar : R$ 840,00
 
 
 ## 📄 Licença
