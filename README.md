@@ -61,4 +61,4 @@ Este projeto é de uso educacional e livre para estudo e adaptação.
 
 ---
 
-Desenvolvido com ❤️ por Renato.
+Desenvolvido por Renato.
