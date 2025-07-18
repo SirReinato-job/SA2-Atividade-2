@@ -1,0 +1,14 @@
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\bin\Debug\net8.0\clinica.exe
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\bin\Debug\net8.0\clinica.deps.json
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\bin\Debug\net8.0\clinica.runtimeconfig.json
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\bin\Debug\net8.0\clinica.dll
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\bin\Debug\net8.0\clinica.pdb
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\obj\Debug\net8.0\clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\obj\Debug\net8.0\clinica.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\obj\Debug\net8.0\clinica.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\obj\Debug\net8.0\clinica.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\obj\Debug\net8.0\clinica.dll
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\obj\Debug\net8.0\refint\clinica.dll
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\obj\Debug\net8.0\clinica.pdb
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\obj\Debug\net8.0\clinica.genruntimeconfig.cache
+C:\Users\renat\OneDrive\Documentos\Senai\01.codificacao-backend\SA2-atividade2\clinica\obj\Debug\net8.0\ref\clinica.dll
